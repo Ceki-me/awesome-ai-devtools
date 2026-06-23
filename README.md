@@ -1,4 +1,4 @@
-# ⚡️🧑‍💻 Awesome AI-Powered Developer Tools
+# ⚡️🧑‍💻 Hello, Awesome Person
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
